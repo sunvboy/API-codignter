@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+	<permissions>
+		<title>Liên hệ - [Nhóm liên hệ]</title>
+		<item>
+			<param>contact/backend/catalogue/view</param>
+			<description>Xem</description>
+		</item>
+		<item>
+			<param>contact/backend/catalogue/create</param>
+			<description>Thêm</description>
+		</item>
+		<item>
+			<param>contact/backend/catalogue/update</param>
+			<description>Sửa</description>
+		</item>
+		<item>
+			<param>contact/backend/catalogue/delete</param>
+			<description>Xóa</description>
+		</item>
+	</permissions>
+	<permissions>
+		<title>Liên hệ - [Danh sách]</title>
+		<item>
+			<param>contact/backend/contact/view</param>
+			<description>Xem</description>
+		</item>
+		<item>
+			<param>contact/backend/contact/delete</param>
+			<description>Xóa</description>
+		</item>
+		<item>
+			<param>contact/backend/contact/mailsubricre</param>
+			<description>DS đăng ký EMAIL</description>
+		</item>
+	</permissions>
+</module>

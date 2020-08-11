@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+	<permissions>
+		<title>Kích hoạt modules [functions]</title>
+		<item>
+			<param>functions/backend/functions/view</param>
+			<description>Xem</description>
+		</item>
+		<item>
+			<param>functions/backend/functions/create</param>
+			<description>Thêm</description>
+		</item>
+		<item>
+			<param>functions/backend/functions/update</param>
+			<description>Sửa</description>
+		</item>
+		<item>
+			<param>functions/backend/functions/delete</param>
+			<description>Xóa</description>
+		</item>
+	</permissions>
+	<permissions>
+		
+	</permissions>
+</module>

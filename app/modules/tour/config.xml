@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+	<permissions>
+		<title>Loại - [Tour]</title>
+		<item>
+			<param>tour/backend/catalogue/view</param>
+			<description>Xem</description>
+		</item>
+		<item>
+			<param>tour/backend/catalogue/create</param>
+			<description>Thêm</description>
+		</item>
+		<item>
+			<param>tour/backend/catalogue/update</param>
+			<description>Sửa</description>
+		</item>
+		<item>
+			<param>tour/backend/catalogue/delete</param>
+			<description>Xóa</description>
+		</item>
+	</permissions>
+
+	<permissions>
+		<title>Danh sách - [Tour]</title>
+		<item>
+			<param>tour/backend/tour/view</param>
+			<description>Xem</description>
+		</item>
+		<item>
+			<param>tour/backend/tour/create</param>
+			<description>Thêm</description>
+		</item>
+		<item>
+			<param>tour/backend/tour/update</param>
+			<description>Sửa</description>
+		</item>
+		<item>
+			<param>tour/backend/tour/delete</param>
+			<description>Xóa</description>
+		</item>
+		<item>
+			<param>tour/backend/tour/duplicate</param>
+			<description>Nhân bản</description>
+		</item>
+		<item>
+			<param>tour/backend/tour/viewall</param>
+			<description>Xem toàn bộ</description>
+		</item>
+	</permissions>
+	<permissions>
+		<title>Loại thuộc tính - [Tour]</title>
+		<item>
+			<param>tour/backend/acatalogue/view</param>
+			<description>Xem</description>
+		</item>
+		<item>
+			<param>tour/backend/acatalogue/create</param>
+			<description>Thêm</description>
+		</item>
+		<item>
+			<param>tour/backend/acatalogue/update</param>
+			<description>Sửa</description>
+		</item>
+		<item>
+			<param>tour/backend/acatalogue/delete</param>
+			<description>Xóa</description>
+		</item>
+		<item>
+			<param>tour/backend/tour/order</param>
+			<description>Order tour</description>
+		</item>
+	</permissions>
+	<permissions>
+		<title>Thuộc tính - [Tour]</title>
+		<item>
+			<param>tour/backend/attribute/view</param>
+			<description>Xem</description>
+		</item>
+		<item>
+			<param>tour/backend/attribute/create</param>
+			<description>Thêm</description>
+		</item>
+		<item>
+			<param>tour/backend/attribute/update</param>
+			<description>Sửa</description>
+		</item>
+		<item>
+			<param>tour/backend/attribute/delete</param>
+			<description>Xóa</description>
+		</item>
+	</permissions>
+</module>
